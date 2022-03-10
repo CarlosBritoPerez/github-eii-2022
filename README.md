@@ -5,4 +5,4 @@ Taller iniciación GitHub
 
 - Prueba para añadir rama
 
-Carlos Brito Pérez - Author
+*Author - Carlos Brito Pérez*
